@@ -29,8 +29,8 @@ class DatabaseSeeder extends Seeder
             "site_title" => "Ramdhani",
             "tagline" => "Ramdhani Laravel Blog Project",
             "description" => "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Porro tenetur non laudantium! Autem, similique. Error quidem sequi adipisci, voluptatem sunt possimus cum. Nisi, nobis quia! Odio, vel similique. Corrupti, a!",
-            "logo_dark" => "logo_dark.png",
-            "logo_light" => "logo_light.png",
+            "logo_dark" => "r.png",
+            "logo_light" => "r.png",
             "copyright_text" => "© 2025, Ramdhani, All Rights Reserved.",
             "enable_registration" => "1",
         ]);
