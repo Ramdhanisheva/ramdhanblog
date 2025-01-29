@@ -1,6 +1,6 @@
 # Ramdhan - Laravel Multi User Blog Project
 
-A multi user blog project using Laravel 10 and Ramdhan blog template
+A multi user blog project using Laravel 11 and Ramdhan blog template
 
 ## Features
 
